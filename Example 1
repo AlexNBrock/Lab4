@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.divone {
+background-color: blue;
+border: 5px outset red;
+text-align: left;
+margin: 50px 50px 50px 50px;
+}
+p.one {
+border-style: dashed;
+border-color: green;
+color: red;
+}
+body {
+  background-color: blue;
+}
+</style>
+<body>
+
+<div class="divone">
+<p class="one">Insert Text</p>
+<img style="two;" src="https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABceL_FxRrEg1Jm2LyiYugCJwBkJ2v4GmCBWQ_JNLBXCu1tpO1CMoOxGk9R74PCzrCR0FLIrjdgZlyIHnZEuiHArY6C9G.jpg?r=a82" width="400" height-"900">
+</div>
+</body>
+
+
+
+</body>
+</html>

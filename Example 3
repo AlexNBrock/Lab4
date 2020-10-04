@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<style>
+.mydiv {
+  background-color: green;
+  border-style: dotted;
+  border-color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.color1 {
+color: red;
+font-size: 15px;
+}
+.color2 {
+color: darkgreen;
+font-size: 15px;
+}
+.color3 {
+color: purple;
+font-size: 15px;
+text-align: left;
+background-color: green;
+}
+body {
+  background-color: green;
+}
+
+
+</style>
+
+
+
+<body>
+<div class="mydiv">
+<p class="color1">This is the first box</p><br>
+<p class="color2"> This text is in the same box :D</p><br>
+</div>
+<p class="color3">This text should look awesome</p>
+
+
+
+</body>
+</html>

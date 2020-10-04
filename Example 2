@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.myDiv {
+  border-style: dotted;
+  border-color: purple;
+  padding-top: 125px;
+  text-align: center;
+  font-size: small;
+}
+p.one {
+color: green;
+text-align: center;
+font-size: 10px;
+}
+.Serif {
+  font-family: "Times New Roman", Times, serif;
+}
+.color1 {
+  color: orange;
+  font-size: 30px;
+}
+.color2 {
+  color: red;
+  padding-bottom: 10px;
+  font-size: 30px;
+
+}
+.color3 {
+color: purple;
+font-size: 5px;
+}
+
+.color4 {
+color: yellow;
+font-size: 5px;
+font-style: italic;
+}
+.rightside {
+text-align: right
+}
+</style>
+
+
+
+
+<body>
+<div class="myDiv">
+<p>Input Delay</p>
+</div>
+<p class="one">This is an even bigger delay</p>
+<p class="serif">
+<span class="color1">More</span> <span class="color2">text</span> <span class="color1">than before</span>
+</p><br>
+<p class="rightside">
+<span class="color3">I</span> <span class="color4">CAN'T</span> <span class="color3">believe it's not more text</span>
+
+
+</body>
+</html>
